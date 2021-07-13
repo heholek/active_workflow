@@ -50,7 +50,7 @@ gem 'jquery-datatables', '~> 1.10.20'
 gem 'grape', '~> 1.5.1'
 gem 'grape-entity', '~> 0.8.2'
 gem 'jwt', '~> 2.2.2'
-gem 'addressable', '~> 2.7.0'
+gem 'addressable', '~> 2.8.0'
 
 group :development do
   gem 'bullet', '~> 6.1.0'
